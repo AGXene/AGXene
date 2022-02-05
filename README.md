@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AGXene
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👀 I’m creating my own videogame
+- 🌱 I’m currently learning programming, 2D art, sound desing and music composition.
 - 📫 My contact: agxene@gmail.com
 
 <!---
